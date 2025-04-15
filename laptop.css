@@ -1,0 +1,13 @@
+.container {
+  
+  .sub-container {
+    width: 41rem;
+    height: 61rem;
+  }
+}
+.social-media {
+
+  .social-media__enlace {
+    width: 32rem;
+  }  
+}
